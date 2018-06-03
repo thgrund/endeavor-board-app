@@ -1,0 +1,209 @@
+html, body
+{
+  width: 100%;
+  overflow-y:hidden;
+}
+
+div.page-header {
+  z-index: 3;
+  height: 40px;
+  width: 100%;
+  position: fixed;
+  background-color: #141832;
+}
+.asc-card-draggable-container {
+  width: 100%;
+  margin: 0 auto;
+  cursor: move;
+}
+
+.ui.card > .asc-alpha-header {
+  line-height: 2;
+}
+
+.ui.card > .content > .asc-alpha-state-header-container {
+  font-size: 18px;
+  border: 2px solid #00000054;
+  border-radius: 7px;
+  padding: 12px;
+  font-weight: bold;
+}
+
+.ui.card > .asc-alpha-state-checklist-container {
+  min-height: 180px;
+}
+
+.ui.card > .content > .asc-alpha-state-counter {
+  border: 2px solid #00000054;
+  border-radius: 7px;
+  padding: 6px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.board-container {
+  display: table;
+  border-spacing: 20px;
+  border-radius: .28571429rem;
+  border: 1px solid rgba(34,36,38,.15);
+  width: 100%;
+  position:relative;
+}
+
+.table-row-header {
+  font-size: 1.14285714em;
+  font-weight: 700;
+  vertical-align: middle;
+}
+
+.table-cell-header {
+  vertical-align: middle;
+  padding: 20px;
+}
+
+.alpha-state-board-row {
+  display: table-row;
+
+  width:100%;
+}
+
+.alpha-state-board-cell {
+  background-color: #f3f4f5;
+  width:50%;
+  display: table-cell;
+  border-radius: .28571429rem;
+  border: 1px solid rgba(34,36,38,.15);
+}
+
+.board-wrapper {
+  height: auto;
+  max-height: 81vh;
+  overflow-x: scroll;
+  position: relative;
+  top: 158px;
+}
+
+.review-board-container {
+  display: table;
+  background-color: #f3f4f5;
+  border-radius: .28571429rem;
+  width: 100%;
+  height: 100%;
+}
+
+.review-board-row {
+  display: table-row;
+  width:100%;
+}
+
+.review-board-column {
+  background-color: #f3f4f5;
+  display: table-cell;
+}
+
+.asc-card-wrapper {
+  width: 260px;
+  margin: 10px auto;
+}
+
+.alpha-board-steps {
+  width: 100%;
+  margin: 0 !important;
+  position: fixed;
+  z-index: 2;
+  top: 39px;
+}
+
+.button-container {
+  right: 0;
+  position: fixed;
+  top: 107px;
+  background-color: white;
+  z-index: 2;
+  width: 100%;
+  height: 52px;
+  padding-top: 7px;
+  border-bottom: 1px solid rgba(34,36,38,.15);
+  border-top: 1px solid rgba(34,36,38,.15);
+}
+
+.button-step {
+  float:right;
+  margin-right: 0 !important;
+  margin-left: 10px !important;
+}
+
+.task-input {
+  width: 100%;
+}
+
+.task-slider {
+  float: right;
+}
+
+.custom-checkbox-label {
+  float: left;
+}
+
+.task-item-issue {
+  width: 750px;
+}
+.task-entry-button {
+  margin: 0 1px 0 0 !important;
+}
+
+.task-boxen, .task-input > input, .task-input > button {
+  border-radius: 0 !important;
+  border-left: 0 !important;
+  border-right: 0 !important;
+}
+.task-change-input {
+  width: 100%;
+}
+.task-change-input > input, .task-change-input > button {
+  border-radius: 0 !important;
+}
+
+
+div.ui.checked.checkbox > label {
+  text-decoration: line-through;
+}
+
+div.list-item-checked {
+  text-decoration: line-through;
+}
+
+.item > div > i {
+  visibility: hidden;
+}
+.item:hover > div > i {
+  visibility: visible;
+  color: #444548;
+  cursor: pointer;
+}
+
+.item:hover > div > i.disabled {
+  cursor: default;
+}
+
+.item:hover > div > i.sync-done-icon {
+  color: #12cc20;
+  margin-right: 10px;
+  cursor: default;
+}
+
+.item:hover > div > i.sync-icon {
+  color: #ea7161;
+  margin-right: 10px;
+  cursor: default;
+}
+
+.item:hover > div > i.sync-failure {
+  margin-right: 10px;
+  cursor: default;
+}
+
+.ui.list .list>.item, .ui.list>.item, ol.ui.list li, ul.ui.list li {
+  padding-bottom: 0.05em;
+  padding-top: 0.05em;
+}

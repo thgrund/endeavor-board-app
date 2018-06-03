@@ -1,0 +1,572 @@
+[
+
+  {
+    "id": "1",
+    "title": "Recognized",
+    "order": "1",
+    "checklistMap": {
+      "Stakeholders groups identified" : true,
+      "Key stakeholder groups represented" : true
+    },
+    "isObjective": true,
+    "taskIds": ["1"]
+  },
+  {
+    "id": "2",
+    "title": "Represented",
+    "order": "2",
+    "checklistMap": {
+      "Responsibilities agree" : true,
+      "Representatives authorized" : true,
+      "Collaboration approach agreed" : true,
+      "Way of working supported & respected" : true
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "3",
+    "title": "Involved",
+    "order": "3",
+    "checklistMap": {
+      "Representatives assist the team" : false,
+      "Timely feedback and decisions provided" : false,
+      "Changes promptly communicated" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "4",
+    "title": "In Agreement",
+    "order": "4",
+    "checklistMap": {
+      "Minimal expectations agreed" : false,
+      "Rep's happy with their involvement" : false,
+      "Rep's input valued" : false,
+      "Team's input valued" : false,
+      "Priorities clear & perspectives balanced" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "5",
+    "title": "Satisfied for Deployment",
+    "order": "5",
+    "checklistMap": {
+      "Stakeholder feedback provided": false,
+      "System ready for deployment" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "6",
+    "title": "Satisfied in Use",
+    "order": "6",
+    "checklistMap": {
+      "Feedback on system use available" : false,
+      "System meets expectations" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "7",
+    "title": "Identified",
+    "order": "1",
+    "checklistMap": {
+      "Idea behind opportunity identified" : true,
+      "At least one investing stakeholder interested" : true,
+      "Other stakeholders identified" : true
+    },
+    "isObjective": false,
+    "taskIds": ["2", "3"]
+  },
+  {
+    "id": "8",
+    "title": "Solution Needed",
+    "order": "2",
+    "checklistMap": {
+      "Solution identified" : false,
+      "Stakeholders' needs established" : false,
+      "Problems and root causes identified" : false,
+      "Need for solution confirmed" : false,
+      "At least one solution proposed" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "9",
+    "title": "Value Established",
+    "order": "3",
+    "checklistMap": {
+      "Opportunity value quantified" : false,
+      "Solution impact understood" : false,
+      "System value understood" : false,
+      "Success criteria clear" : false,
+      "Outcomes clear and quantified" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "10",
+    "title": "Viable",
+    "order": "4",
+    "checklistMap": {
+      "Solution outlined" : false,
+      "Solution possible within constraints" : false,
+      "Risks acceptable & manageable" : false,
+      "Solution profitable" : false,
+      "Reasons to develop solution understood" : false,
+      "Pursuit viable" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "11",
+    "title": "Addressed",
+    "order": "5",
+    "checklistMap": {
+      "Opportunity addressed" : false,
+      "Solution worth deploying" : false,
+      "Stakeholders satisfied" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "12",
+    "title": "Benefit Accrued",
+    "order": "6",
+    "checklistMap": {
+      "Solution accrues benefits" : false,
+      "ROI acceptable" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "13",
+    "title": "Conceived",
+    "order": "1",
+    "checklistMap": {
+      "Stakeholders agree system to be produced" : false,
+      "Users identified" : true,
+      "Funding stakeholders identified" : true,
+      "Opportunity clear" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "14",
+    "title": "Bounded",
+    "order": "2",
+    "checklistMap": {
+      "Development stakeholders identified" : false,
+      "System purpose agreed" : false,
+      "System success clear" : false,
+      "Shared solution understanding exists" : false,
+      "Requirement's format agreed" : false,
+      "Requirements management in place" : false,
+      "Prioritization scheme clear" : false,
+      "Constrains identified & considered" : false,
+      "Assumptions clear" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "15",
+    "title": "Coherent",
+    "order": "3",
+    "checklistMap": {
+      "Requirements shared" : false,
+      "Requirements' origin clear" : false,
+      "Rationale clear" : false,
+      "Conflicts addressed" : false,
+      "Essential characteristics clear" : false,
+      "Key usage scenarios explained" : false,
+      "Priorities clear" : false,
+      "Impact understood" : false,
+      "Team knows & agrees on what to deliver" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "16",
+    "title": "Acceptable",
+    "order": "4",
+    "checklistMap": {
+      "Acceptable solution described" : false,
+      "Change under control" : false,
+      "Value to be realized clear" : false,
+      "Clear how opportunity is addressed" : false,
+      "Testable" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "17",
+    "title": "Addressed",
+    "order": "5",
+    "checklistMap": {
+      "Enough addressed to be acceptable" : false,
+      "Requirements and system match" : false,
+      "Value realized clear" : false,
+      "System worth making operational" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "18",
+    "title": "Fulfilled",
+    "order": "6",
+    "checklistMap": {
+      "Stakeholders accept requirements" : false,
+      "No hindering requirements" : false,
+      "Requirements fully satisfied" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "19",
+    "title": "Architecture Selected",
+    "order": "1",
+    "checklistMap": {
+      "Architecure selection criteria agreed" : true,
+      "HW platforms identified" : true,
+      "Technologies selected" : true,
+      "System boundary known" : true,
+      "Decisions on system organization made" : false,
+      "Buy, build, reuse decision made" : false,
+      "Key technical risks agreed to" : true
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "20",
+    "title": "Demonstrable",
+    "order": "2",
+    "checklistMap": {
+      "Key architectural characteristics demonstrated" : false,
+      "System excercised & performance measured" : false,
+      "Critical HW configurations demonstrated" : false,
+      "Critical interfaces demonstrated" : false,
+      "Integration with environment demonstrated" : false,
+      "Architecture accepted as fit-for-purpose" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "21",
+    "title": "Usable",
+    "order": "3",
+    "checklistMap": {
+      "System can be operated" : false,
+      "System functionality tested" : false,
+      "System performance acceptable" : false,
+      "Defect levels acceptable" : false,
+      "System fully documented" : false,
+      "Release content known" : false,
+      "Added value clear" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "22",
+    "title": "Ready",
+    "order": "4",
+    "checklistMap": {
+      "User documentations available" : false,
+      "System accepted as fit-for-purpose" : false,
+      "Stakeholders want the system" : false,
+      "Operational support in place" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "23",
+    "title": "Operational",
+    "order": "5",
+    "checklistMap": {
+      "System available for use" : false,
+      "System live" : false,
+      "Agreed service levels supported" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "24",
+    "title": "Retired",
+    "order": "6",
+    "checklistMap": {
+      "Replaced or discontinued" : false,
+      "No longer supported" : false,
+      "No authorized users" : false,
+      "Updates stopped" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+
+  {
+    "id": "25",
+    "title": "Initiated",
+    "order": "1",
+    "checklistMap": {
+      "Work initiator known": false,
+      "Work constraints clear": true,
+      "Sponsorship and funding model clear": true,
+      "Priority of Work clear": false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "26",
+    "title": "Prepared",
+    "order": "2",
+    "checklistMap": {
+      "Commitment made" : false,
+      "Cost and effort estimated" : false,
+      "Resource availability understood" : false,
+      "Risk exposure understood" : false,
+      "Acceptance criteria established" : false,
+      "Sufficiently broken down to start" : false,
+      "Tasks identified and prioritized" : false,
+      "Credible plan in place" : false,
+      "At least on team member ready" : false,
+      "Integration points defined" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "27",
+    "title": "Started",
+    "order": "3",
+    "checklistMap": {
+      "Development started" : false,
+      "Progress monitored" : false,
+      "Definition of done in place" : false,
+      "Tasks being progressed" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "28",
+    "title": "Under control",
+    "order": "4",
+    "checklistMap": {
+      "Tasks being completed" : false,
+      "Unplanned work under control" : false,
+      "Risks under control" : false,
+      "Estimated revised to reflect performance" : false,
+      "Progress measured" : false,
+      "Re-work under control" : false,
+      "Commitments constistently met" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "29",
+    "title": "Concluded",
+    "order": "5",
+    "checklistMap": {
+      "Only admin tasks left" : false,
+      "Results achieved" : false,
+      "Resulting system accepted" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "30",
+    "title": "Closed",
+    "order": "6",
+    "checklistMap": {
+      "Lessons learned" : false,
+      "Metrics available" : false,
+      "Everything archived" : false,
+      "Budget reconciled & closed" : false,
+      "Team released" : false,
+      "No outstanding, uncompleted tasks" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "31",
+    "title": "Seeded",
+    "order": "1",
+    "checklistMap": {
+      "Mission defined" : false,
+      "Constrains known and defined" : false,
+      "Growth mechanisms in place" : true,
+      "Composition defines" : false,
+      "Responsibilities outlined" : false,
+      "Required commitment level clear" : true,
+      "Required competencies identified" : false,
+      "Size determined" : true,
+      "Governance rules defined" : true,
+      "Leadership model selected" : true
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "32",
+    "title": "Formed",
+    "order": "2",
+    "checklistMap": {
+      "Individual responsibilities accepted and aligned to competencies" : false,
+      "Enough members recruited" : false,
+      "Roles understood" : false,
+      "How to work understood" : false,
+      "Members introduced" : false,
+      "Members accepting work" : false,
+      "External collaborators identified" : false,
+      "Communication mechanisms defined" : false,
+      "Members commit to team" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "33",
+    "title": "Collaborating",
+    "order": "3",
+    "checklistMap": {
+      "Works as one unit" : false,
+      "Communication open and honest" : false,
+      "Focused on mission" : false,
+      "Members known each other" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "34",
+    "title": "Performing",
+    "order": "4",
+    "checklistMap": {
+      "Consistently meeting commitments" : false,
+      "Continuously adapting to change" : false,
+      "Addresses problems" : false,
+      "Rework and backtracking minimized" : false,
+      "Waste continuously eliminated" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "35",
+    "title": "Adjourned",
+    "order": "5",
+    "checklistMap": {
+      "Responsiblities fulfilled" : false,
+      "Members available to other teams" : false,
+      "Mission concluded" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "36",
+    "title": "Principles Established",
+    "order": "1",
+    "checklistMap": {
+      "Team actively support principles" : true,
+      "Stakeholders agree with principles" : true,
+      "Tool need agreed" : true,
+      "Approach recommended" : true,
+      "Operational context understood" : true,
+      "Practice & tool contrains known" : true
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "37",
+    "title": "Foundation Established",
+    "order": "2",
+    "checklistMap": {
+      "Key practices & tools selected" : false,
+      "Practices needed to start work agreed" : false,
+      "Non-negotiable practices & tools identified" : false,
+      "Gaps between available and needed way-of-working understood" : false,
+      "Gaps in capability understood" : false,
+      "Integrated way of working available" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "38",
+    "title": "In Use",
+    "order": "3",
+    "checklistMap": {
+      "Practices & tools in use" : false,
+      "Regularly inspected" : false,
+      "Adapted to context" : false,
+      "Supported by team" : false,
+      "Feedback mechanism in place" : false,
+      "Practices & tools support collaboration" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "39",
+    "title": "In Place",
+    "order": "4",
+    "checklistMap": {
+      "Used by whole team" : false,
+      "Accessible to whole team" : false,
+      "Inspected and adapted by whole team" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "40",
+    "title": "Working Well",
+    "order": "5",
+    "checklistMap": {
+      "Predictable progresses being made" : false,
+      "Practices naturally applied" : false,
+      "Tools naturally support way-of-working" : false,
+      "Continually tuned" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  },
+  {
+    "id": "41",
+    "title": "Retired",
+    "order": "6",
+    "checklistMap": {
+      "No longer in use" : false,
+      "Lessons learned shared" : false
+    },
+    "isObjective": false,
+    "taskIds": []
+  }
+]

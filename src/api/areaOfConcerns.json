@@ -1,0 +1,20 @@
+[
+  {
+    "id" : "1",
+    "title": "Customer",
+    "color" : "#CBFFC8",
+    "alphaIds": ["1", "2"]
+  },
+  {
+    "id" : "2",
+    "title": "Solution",
+    "color" : "#FDFF9A",
+    "alphaIds" : ["3", "4"]
+  },
+  {
+    "id" : "3",
+    "title": "Endeavor",
+    "color" : "#C7D7F0",
+    "alphaIds" : ["5", "6", "7"]
+  }
+]

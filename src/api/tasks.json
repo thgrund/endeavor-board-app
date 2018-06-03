@@ -1,0 +1,20 @@
+[
+  {
+    "id" : "1",
+    "title": "Dieser Task kommt vom Store!",
+    "isClosed" : false,
+    "isSyncedWithGitLab" : true
+  },
+  {
+    "id" : "2",
+    "title": "Das ist noch ein weiterer Task.",
+    "isClosed" : true,
+    "isSyncedWithGitLab": true
+  },
+  {
+    "id" : "3",
+    "title": "Dieser Task ist gesynced.",
+    "isClosed" : false,
+    "isSyncedWithGitLab" : false
+  }
+]
